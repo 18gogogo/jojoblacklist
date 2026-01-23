@@ -1,7 +1,7 @@
-繁體中文版本 不良租客名單 JOJOBLACKLIST 「不良租客名單」是一款專為出租物業設計的平台，旨在協助業主在出租時有效規避風險。 透過本平台，業主可查詢潛在租客的租賃歷史，判斷其是否曾有不良租賃行為（如拖欠租金、損毀物業等），從而做出更明智的決策。 核心功能：
+繁體中文版本 租客信用評價系統 TenantReview 「租客信用評價系統」是一款專為出租物業設計的平台，旨在協助業主在出租時有效規避風險。 透過本平台，業主可查詢潛在租客的租賃歷史，判斷其是否曾有不良租賃行為（如拖欠租金、損毀物業等），從而做出更明智的決策。 核心功能：
 
-租客名單查詢：可透過部份身份證號碼等關鍵資訊快速識別不良租客，資料均來自業主上傳的真實案例，確保準確可靠。
-不良租客記錄上傳：業主可上傳涉及不良租賃行為的租客資訊（如部份身份證號碼、拖欠租金、損壞物業情況等），供其他業主參考。
+租客評價查詢：可透過部份身份證號碼等關鍵資訊快速識別不良评价，資料均來自業主上傳的真實案例，確保準確可靠。
+不良评价記錄上傳：業主可上傳涉及不良租賃行為的租客資訊（如部份身份證號碼、拖欠租金、損壞物業情況等），供其他業主參考。
 租賃風險提醒：查詢結果中會標註租客的不良記錄，並提供詳細事件描述，協助業主深入了解租客的過往行為。
 數據隱私保護：嚴格遵守當地隱私規範，確保數據僅用於租賃風險評估。
 應用特點：
@@ -12,10 +12,10 @@
 社區互助：業主互相提醒，共同維護租賃市場健康。
 「 數據篩查，自保必備 」
 
-简体中文版本 不良租客名单 JOJOBLACKLIST “不良租客名单”是一款专为出租物业设计的平台，旨在帮助业主在出租时有效规避风险。 通过本平台，业主可查询潜在租客的租赁历史，判断其是否存在不良租赁行为（如拖欠租金、损坏物业等），从而做出更明智的决策。 核心功能：
+简体中文版本 租客信用评价系统 TenantReview “租客信用评价系统”是一款专为出租物业设计的平台，旨在帮助业主在出租时有效规避风险。 通过本平台，业主可查询潜在租客的租赁历史，判断其是否存在不良租赁行为（如拖欠租金、损坏物业等），从而做出更明智的决策。 核心功能：
 
-租客名单查询：可通过部分身份证号码等关键信息快速识别不良租客，数据均来自业主上传的真实案例，确保准确可靠。
-不良租客记录上传：业主可上传涉及不良租赁行为的租客信息（如部分身份证号码、拖欠租金、物业损坏情况等），供其他业主参考。
+租客名单查询：可通过部分身份证号码等关键信息快速识别不良评价，数据均来自业主上传的真实案例，确保准确可靠。
+不良评价记录上传：业主可上传涉及不良租赁行为的租客信息（如部分身份证号码、拖欠租金、物业损坏情况等），供其他业主参考。
 租赁风险提醒：查询结果中会标注租客的不良记录，并提供详细事件描述，帮助业主更好地了解租客的历史行为。
 数据隐私保护：严格遵守当地隐私法规，确保数据仅用于租赁风险评估。
 应用特点：
@@ -26,7 +26,7 @@
 社区互助：业主相互提醒，共同维护租赁市场秩序。
 「 数据筛查，自保必备 」
 
-English Version JOJOBLACKLIST – Bad Tenant Database The Bad Tenant Database is a platform designed specifically for rental property owners, aiming to help them minimize risks when leasing out a property. Through the platform, landlords can check potential tenants’ rental histories to determine whether they have a record of problematic behavior—such as unpaid rent or property damage—before making a rental decision. Core Features:
+English Version TenantReview – Bad Tenant Database The Bad Tenant Database is a platform designed specifically for rental property owners, aiming to help them minimize risks when leasing out a property. Through the platform, landlords can check potential tenants’ rental histories to determine whether they have a record of problematic behavior—such as unpaid rent or property damage—before making a rental decision. Core Features:
 
 Tenant List Search: Search using partial ID numbers and other key details to quickly identify high-risk tenants. All data comes from real cases submitted by landlords, ensuring accuracy and reliability.
 Bad Tenant Record Upload: Landlords can upload information about tenants with poor rental behavior (e.g., partial ID, unpaid rent records, property damage reports) to help fellow landlords avoid similar risks.
