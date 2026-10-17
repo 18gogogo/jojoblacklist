@@ -1,4 +1,4 @@
-#繁體中文版本 
+繁體中文版本 
 租客信用評價系統 TenantReview 「租客信用評價系統」是一款專為出租物業設計的平台，旨在協助業主在出租時有效規避風險。 透過本平台，業主可查詢潛在租客的租賃歷史，判斷其是否曾有不良租賃行為（如拖欠租金、損毀物業等），從而做出更明智的決策。 核心功能：
 
 租客評價查詢：可透過部份身份證號碼等關鍵資訊快速識別不良评价，資料均來自業主上傳的真實案例，確保準確可靠。
@@ -27,7 +27,8 @@
 社区互助：业主相互提醒，共同维护租赁市场秩序。
 「 数据筛查，自保必备 」
 
-English Version TenantReview – Bad Tenant Database The Bad Tenant Database is a platform designed specifically for rental property owners, aiming to help them minimize risks when leasing out a property. Through the platform, landlords can check potential tenants’ rental histories to determine whether they have a record of problematic behavior—such as unpaid rent or property damage—before making a rental decision. Core Features:
+English Version
+TenantReview – Bad Tenant Database The Bad Tenant Database is a platform designed specifically for rental property owners, aiming to help them minimize risks when leasing out a property. Through the platform, landlords can check potential tenants’ rental histories to determine whether they have a record of problematic behavior—such as unpaid rent or property damage—before making a rental decision. Core Features:
 
 Tenant List Search: Search using partial ID numbers and other key details to quickly identify high-risk tenants. All data comes from real cases submitted by landlords, ensuring accuracy and reliability.
 Bad Tenant Record Upload: Landlords can upload information about tenants with poor rental behavior (e.g., partial ID, unpaid rent records, property damage reports) to help fellow landlords avoid similar risks.
